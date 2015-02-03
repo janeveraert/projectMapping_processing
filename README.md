@@ -19,3 +19,6 @@ p - remove last area
 b - toggle background
 
 click and drag in edit mode - select new area to map
+
+##upcomming
+I'm going to try to mold this into a library soon
