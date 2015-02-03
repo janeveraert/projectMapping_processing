@@ -8,10 +8,14 @@ in the first part of the loop, you can make anything you want. The second part g
 
 ##keys
 
-a - enter edit mode
+a - enter edit mode  
+ 
 e - set current corner according to the mouse
+ 
 z, s, q, d - adjust current corner pixelperfect
+ 
 p - remove last area
+ 
 b - toggle background
 
 click and drag in edit mode - select new area to map
