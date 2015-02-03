@@ -2,11 +2,11 @@
 a simple way of creating projectionmappings in processing
 
 
-#how it works
+##how it works
 
 in the first part of the loop, you can make anything you want. The second part gets the selected area's, and maps it out onto the created vectorobjects. 
 
-#keys
+##keys
 
 a - enter edit mode
 e - set current corner according to the mouse
